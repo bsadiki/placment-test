@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec7b26e-69ef-462a-8157-413a5fb9336b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/object/oriented/Carree.java" />
-      <change beforePath="$PROJECT_DIR$/src/object/oriented/FigureFactory.java" afterPath="$PROJECT_DIR$/src/object/oriented/FigureFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/procedural/Geometry.java" afterPath="$PROJECT_DIR$/src/procedural/Geometry.java" />
-    </list>
+    <list default="true" id="8ec7b26e-69ef-462a-8157-413a5fb9336b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,7 +64,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -240,15 +236,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517999304286</updated>
-      <workItem from="1517999305457" duration="730000" />
+      <workItem from="1517999305457" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="730000" />
+    <option name="totallyTimeSpent" value="996000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />

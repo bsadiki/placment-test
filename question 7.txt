@@ -4,3 +4,6 @@ c- 5
 d- Figure : an abstract class that represent a figure (could be a circle or triangle)
 	Circle : a class that allows to calculate perimetre of circle (has one attribute radius)
 	Trinagle : a class that allows to calculate perimetre of triangle (has three attributes that are components of triangle )
+e- procedural is easier because it has one simple class and not has not a complicated design
+f- it would be difficult to add a new shape (we will have to reopen the code after production)
+
